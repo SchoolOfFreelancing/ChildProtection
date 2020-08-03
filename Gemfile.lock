@@ -222,7 +222,7 @@ GEM
     puma (4.3.3)
       nio4r (~> 2.0)
     raabro (1.1.6)
-    rack (2.2.2)
+    rack (2.2.3)
     rack-mini-profiler (2.0.1)
       rack (>= 1.2.0)
     rack-test (1.1.0)
@@ -411,7 +411,7 @@ DEPENDENCIES
   pry
   pry-byebug
   puma (~> 4.3)
-  rack (~> 2.0)
+  rack (~> 2.2)
   rack-mini-profiler (>= 1.0.0)
   rack-test (~> 1.1)
   rack_session_access (~> 0.2)

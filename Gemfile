@@ -34,7 +34,7 @@ gem 'pg',                  '~> 1.1'    # Ruby PostgreSQL binding
 gem 'prawn',               '~> 2.2'    # PDF generation
 gem 'prawn-table',         '~> 0.2'    # PDF generation
 gem 'puma',                '~> 4.3'    # Ruby Rack server
-gem 'rack',                '~> 2.0'
+gem 'rack',                '~> 2.2'
 gem 'rails',               '6.0.2.2'
 gem 'rake',                '~> 12.3'
 gem 'rbnacl',              '>= 7.1.1'  # Libsodium Ruby binding. Used for encrypting export file passwords.
